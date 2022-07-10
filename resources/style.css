@@ -11,7 +11,7 @@ nav {
     background-color: #db4c3f;
     height: 44px;
     width: 100%;
-    text-align: center;
+    text-align: left;
 }
 
 a.nav:link {
@@ -21,6 +21,8 @@ a.nav:link {
     margin: 0px 80px;
     position: relative;
     top: 14px;
+    display: inline;
+    margin-left: 0px;
 }
 
 a.nav:hover {
